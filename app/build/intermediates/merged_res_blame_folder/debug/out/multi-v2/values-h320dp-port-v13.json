@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/shubhamsmac/Desktop/Intent-and-IntentFilters-main/Intent_and_IntentFilters/5)30June_Intents_and_Intent_Filters_Validate_user_credentials_and_perform_Login_CSS_You2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/2730d74d200c17936a122ce975a9aa70/material-1.3.0/res/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,107",
+                        "endColumns": "51,75",
+                        "endOffsets": "102,178"
+                    }
+                }
+            ]
+        }
+    ]
+}
